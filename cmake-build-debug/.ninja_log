@@ -1,0 +1,8 @@
+# ninja log v6
+1	543	1749816806669252660	CMakeFiles/async_metrics.dir/CpuMetric.cpp.o	603d75f7b92ccfe8
+1	644	1749816806669502701	CMakeFiles/async_metrics.dir/MetricManager.cpp.o	dcf58e699ca0b829
+1	821	1749816806669614909	CMakeFiles/async_metrics.dir/MetricLogger.cpp.o	15794c4b24157587
+0	819	1749816806669053494	CMakeFiles/async_metrics.dir/main.cpp.o	2ff237872e27c3d9
+1	541	1749816806669393618	CMakeFiles/async_metrics.dir/HttpRequestsRPS.cpp.o	7a989c124172dd8e
+1	57	1749816819228892858	build.ninja	3411b5ac6e1e4cf
+821	943	1749816807489793542	async_metrics	94c4f0835dde58e3

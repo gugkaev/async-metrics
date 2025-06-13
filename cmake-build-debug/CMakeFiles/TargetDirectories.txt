@@ -1,0 +1,3 @@
+/Users/georgijgugkaev/CLionProjects/async-metrics/cmake-build-debug/CMakeFiles/async_metrics.dir
+/Users/georgijgugkaev/CLionProjects/async-metrics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/georgijgugkaev/CLionProjects/async-metrics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
