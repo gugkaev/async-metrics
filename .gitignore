@@ -1,0 +1,14 @@
+# Ignore build files and IDE configs
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+.idea/
+*.iml
+*.o
+*.out
+*.exe
+*.log
+
